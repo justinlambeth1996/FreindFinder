@@ -1,0 +1,25 @@
+{
+  "name": "justin",
+  "version": "1.0.0",
+  "description": "initializing packages",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinlambeth1996/FreindFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinlambeth1996/FreindFinder/issues"
+  },
+  "homepage": "https://github.com/justinlambeth1996/FreindFinder#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
